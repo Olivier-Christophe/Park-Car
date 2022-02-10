@@ -1,0 +1,8 @@
+﻿'dotnet.exe' (CoreCLR: DefaultDomain) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.28\System.Private.CoreLib.dll'. 
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Users\olist\source\repos\gestion parc véhicules\gestion parc véhicules\bin\Debug\netcoreapp2.1\gestion parc véhicules.dll'. Les symboles ont été chargés.
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.28\System.Runtime.dll'. 
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.28\System.Collections.dll'. 
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.28\System.Console.dll'. 
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.28\System.Threading.dll'. 
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.28\System.Runtime.Extensions.dll'. 
+Le programme '[9968] dotnet.exe' s'est arrêté avec le code -1073741510 (0xc000013a).

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "gestion parc véhicules/1.0.0": {
+        "runtime": {
+          "gestion parc véhicules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestion parc véhicules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
